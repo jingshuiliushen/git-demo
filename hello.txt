@@ -8,3 +8,4 @@ hello git
 hello git
 hello git
 hello git master-hotfix
+remote repository test successful
